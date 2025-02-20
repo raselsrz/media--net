@@ -33,7 +33,7 @@
                                 </div>
                                 <div id="w-node-fdd21cea-7b55-9b28-16cb-9cdc00a43d85-246986ce" class="section-publishers-hero_visual">
                                     <div class="w-embed">
-                                        <img src="https://s31073.pcdn.co/wf-assets/images/advertiser-20-20atf_square_new.jpg" loading="eager" width="796" sizes="(max-width: 479px) 100vw, (max-width: 767px) 87vw, (max-width: 991px) 86vw, (max-width: 1439px) 49vw, 42vw" alt="Multigenerational family enjoying holiday dinner." srcset="https://s31073.pcdn.co/wf-assets/images/advertiser-20-20atf_square_new-p-500.jpg 500w, https://s31073.pcdn.co/wf-assets/images/advertiser-20-20atf_square_new-p-800.jpg 800w, https://s31073.pcdn.co/wf-assets/images/advertiser-20-20atf_square_new-p-1080.jpg 1080w, https://s31073.pcdn.co/wf-assets/images/advertiser-20-20atf_square_new-p-1600.jpg 1600w, https://s31073.pcdn.co/wf-assets/images/advertiser-20-20atf_square_new-p-2000.jpg 2000w, https://s31073.pcdn.co/wf-assets/images/advertiser-20-20atf_square_new-p-2600.jpg 2600w, https://s31073.pcdn.co/wf-assets/images/advertiser-20-20atf_square_new-p-3200.jpg 3200w, https://s31073.pcdn.co/wf-assets/images/advertiser-20-20atf_square_new.jpg 3744w" class="section-publishers-hero_visual-image">
+                                        <img src="/asset/img/advertiser-20-20atf_square_new.jpg" loading="eager" width="796" sizes="(max-width: 479px) 100vw, (max-width: 767px) 87vw, (max-width: 991px) 86vw, (max-width: 1439px) 49vw, 42vw" alt="Multigenerational family enjoying holiday dinner." srcset="/asset/img/advertiser-20-20atf_square_new-p-500.jpg 500w, /asset/img/advertiser-20-20atf_square_new-p-800.jpg 800w, /asset/img/advertiser-20-20atf_square_new-p-1080.jpg 1080w, /asset/img/advertiser-20-20atf_square_new-p-1600.jpg 1600w, /asset/img/advertiser-20-20atf_square_new-p-2000.jpg 2000w, /asset/img/advertiser-20-20atf_square_new-p-2600.jpg 2600w, /asset/img/advertiser-20-20atf_square_new-p-3200.jpg 3200w, /asset/img/advertiser-20-20atf_square_new.jpg 3744w" class="section-publishers-hero_visual-image">
                                     </div>
                                 </div>
                             </div>
@@ -80,7 +80,7 @@
                                                         </div>
                                                         <div class="spacer-tiny"></div>
                                                         <div class="text-color-grey">
-                                                            <div class="text-size-xsmall text-color-jet-grey">powered by Media.net ContextGraph.</div>
+                                                            <div class="text-size-xsmall text-color-jet-grey">powered by MyMaximizer.com ContextGraph.</div>
                                                         </div>
                                                     </div>
                                                     <div id="w-node-_05c90b4f-70f9-ba48-c8cf-cdf693586b92-246986ce">
@@ -96,7 +96,7 @@
                                                 <div class="spacer-large"></div>
                                                 <div>
                                                     <div class="w-embed">
-                                                        <img src="https://s31073.pcdn.co/wf-assets/images/audience-advertisers.png" loading="eager" width="1145" sizes="(max-width: 479px) 100vw, (max-width: 767px) 90vw, (max-width: 991px) 65vw, (max-width: 1439px) 64vw, 60vw" alt="" srcset="https://s31073.pcdn.co/wf-assets/images/audience-advertisers-p-500.png 500w, https://s31073.pcdn.co/wf-assets/images/audience-advertisers-p-800.png 800w, https://s31073.pcdn.co/wf-assets/images/audience-advertisers-p-1080.png 1080w, https://s31073.pcdn.co/wf-assets/images/audience-advertisers-p-1600.png 1600w, https://s31073.pcdn.co/wf-assets/images/audience-advertisers-p-2000.png 2000w, https://s31073.pcdn.co/wf-assets/images/audience-advertisers.png 2291w">
+                                                        <img src="/asset/img/audience-advertisers.png" loading="eager" width="1145" sizes="(max-width: 479px) 100vw, (max-width: 767px) 90vw, (max-width: 991px) 65vw, (max-width: 1439px) 64vw, 60vw" alt="" srcset="/asset/img/audience-advertisers-p-500.png 500w, /asset/img/audience-advertisers-p-800.png 800w, /asset/img/audience-advertisers-p-1080.png 1080w, /asset/img/audience-advertisers-p-1600.png 1600w, /asset/img/audience-advertisers-p-2000.png 2000w, /asset/img/audience-advertisers.png 2291w">
                                                     </div>
                                                 </div>
                                             </div>
@@ -124,7 +124,7 @@
                                             <div class="section-publishers-sticky_main-header has-bg">
                                                 <div class="max-width-large">
                                                     <h3 class="section-publishers-sticky_main-title">
-                                                        Get unparalleled optimization opportunities &amp;ROI with Media.net Curated Marketplace<span class="text-color-ruby-blaze">.</span>
+                                                        Get unparalleled optimization opportunities &amp;ROI with MyMaximizer.com Curated Marketplace<span class="text-color-ruby-blaze">.</span>
                                                     </h3>
                                                 </div>
                                             </div>
@@ -132,7 +132,7 @@
                                                 <div class="section-advertisers-activation_cards">
                                                     <div id="w-node-_5bc043d2-ba5b-9c3c-5862-c774ad52fc6f-246986ce" class="section-advertisers-activation_card">
                                                         <div class="section-advertisers-activation_card-inner card-1">
-                                                            <div class="section-advertisers-activation_card-title">Layer your first-party data, third-party audience data, &amp;Media.net’s SearchSignals</div>
+                                                            <div class="section-advertisers-activation_card-title">Layer your first-party data, third-party audience data, &amp;MyMaximizer.com’s SearchSignals</div>
                                                             <div class="text-color-jet-grey">
                                                                 <div class="text-size-small">to vetted premium publisher inventory with complete control and security.</div>
                                                             </div>
@@ -192,7 +192,7 @@
                                                     <div class="text-colot-titan-white">
                                                         <div class="text-size-regular text-weight-semibold">
                                                             No additional curation fee<span class="text-color-ruby-blaze">.</span>
-                                                            More working media<span class="text-color-ruby-blaze">.</span>
+                                                            More working MyMaximizer<span class="text-color-ruby-blaze">.</span>
                                                             White-glove service<span class="text-color-ruby-blaze">.</span>
                                                         </div>
                                                     </div>
@@ -204,7 +204,7 @@
                                             <div class="section-publishers-sticky_main-header has-bg">
                                                 <div class="max-width-large">
                                                     <h3 class="section-publishers-sticky_main-title">
-                                                        Activate omnichannel campaigns quickly with the Media.net Deals Desk<span class="text-color-ruby-blaze">.</span>
+                                                        Activate omnichannel campaigns quickly with the MyMaximizer.com Deals Desk<span class="text-color-ruby-blaze">.</span>
                                                     </h3>
                                                 </div>
                                             </div>
@@ -231,13 +231,13 @@
                                                             <div id="w-node-a81242ae-a587-7832-4e9c-2d3ae5506da0-246986ce" class="section-advertisers-activation_card-inner card-3">
                                                                 <div class="section-advertisers-activation_card-title">Integrate first-party &amp;third-party data vendors</div>
                                                                 <div class="text-color-jet-grey">
-                                                                    <div class="text-size-small">and Media.net SearchSignals into deals.</div>
+                                                                    <div class="text-size-small">and MyMaximizer.com SearchSignals into deals.</div>
                                                                 </div>
                                                             </div>
                                                         </div>
                                                         <div id="w-node-a81242ae-a587-7832-4e9c-2d3ae5506da6-246986ce" class="section-advertisers-activation_card">
                                                             <div id="w-node-a81242ae-a587-7832-4e9c-2d3ae5506da7-246986ce" class="section-advertisers-activation_card-inner card-4">
-                                                                <div class="section-advertisers-activation_card-title">Target &amp;buy media around multiple strategies</div>
+                                                                <div class="section-advertisers-activation_card-title">Target &amp;buy MyMaximizer around multiple strategies</div>
                                                                 <div class="text-color-jet-grey">
                                                                     <div class="text-size-small">important to your campaigns.</div>
                                                                 </div>
@@ -300,7 +300,7 @@
                                                 </div>
                                                 <div class="section-advertisers-insights_visual">
                                                     <div class="w-embed">
-                                                        <img src="https://s31073.pcdn.co/wf-assets/images/inventory-insights.png" loading="eager" sizes="(max-width: 479px) 100vw, (max-width: 767px) 90vw, (max-width: 991px) 65vw, (max-width: 1439px) 31vw, 28vw" srcset="https://s31073.pcdn.co/wf-assets/images/inventory-insights-p-500.png 500w, https://s31073.pcdn.co/wf-assets/images/inventory-insights-p-800.png 800w, https://s31073.pcdn.co/wf-assets/images/inventory-insights-p-1080.png 1080w, https://s31073.pcdn.co/wf-assets/images/inventory-insights.png 1320w" alt="" class="image-6">
+                                                        <img src="/asset/img/inventory-insights.png" loading="eager" sizes="(max-width: 479px) 100vw, (max-width: 767px) 90vw, (max-width: 991px) 65vw, (max-width: 1439px) 31vw, 28vw" srcset="/asset/img/inventory-insights-p-500.png 500w, /asset/img/inventory-insights-p-800.png 800w, /asset/img/inventory-insights-p-1080.png 1080w, /asset/img/inventory-insights.png 1320w" alt="" class="image-6">
                                                     </div>
                                                 </div>
                                             </div>
@@ -308,14 +308,14 @@
                                             <div class="section-advertisers-insights_row reverse-block">
                                                 <div class="section-advertisers-insights_visual">
                                                     <div class="w-embed">
-                                                        <img src="https://s31073.pcdn.co/wf-assets/images/audience-insights.png" loading="eager" sizes="(max-width: 479px) 100vw, (max-width: 767px) 90vw, (max-width: 991px) 65vw, (max-width: 1439px) 31vw, 28vw" srcset="https://s31073.pcdn.co/wf-assets/images/audience-insights-p-500.png 500w, https://s31073.pcdn.co/wf-assets/images/audience-insights-p-800.png 800w, https://s31073.pcdn.co/wf-assets/images/audience-insights-p-1080.png 1080w, https://s31073.pcdn.co/wf-assets/images/audience-insights.png 1320w" alt="" class="image-7">
+                                                        <img src="/asset/img/audience-insights.png" loading="eager" sizes="(max-width: 479px) 100vw, (max-width: 767px) 90vw, (max-width: 991px) 65vw, (max-width: 1439px) 31vw, 28vw" srcset="/asset/img/audience-insights-p-500.png 500w, /asset/img/audience-insights-p-800.png 800w, /asset/img/audience-insights-p-1080.png 1080w, /asset/img/audience-insights.png 1320w" alt="" class="image-7">
                                                     </div>
                                                 </div>
                                                 <div class="section-advertisers-insights_content">
                                                     <h4 class="section-advertisers-insights_title">Audience Insights</h4>
                                                     <div class="spacer-xmedium"></div>
                                                     <div>
-                                                        <div class="text-size-small">Access our proprietary identity graph for household-level insights on media buys to increase your campaign’s precision and scale, allowing you to target effectively across devices and channels.</div>
+                                                        <div class="text-size-small">Access our proprietary identity graph for household-level insights on MyMaximizer buys to increase your campaign’s precision and scale, allowing you to target effectively across devices and channels.</div>
                                                     </div>
                                                 </div>
                                             </div>
@@ -341,32 +341,32 @@
                         <div class="section-advertisers-audience_logos">
                             <div class="section-advertisers-audience_logo">
                                 <div class="w-embed">
-                                    <img src="https://s31073.pcdn.co/wf-assets/images/criteo.png" loading="lazy" width="216" alt="" class="section-advertisers-audience_logo-image">
+                                    <img src="/asset/img/criteo.png" loading="lazy" width="216" alt="" class="section-advertisers-audience_logo-image">
                                 </div>
                             </div>
                             <div class="section-advertisers-audience_logo">
                                 <div class="w-embed">
-                                    <img src="https://s31073.pcdn.co/wf-assets/images/dv-20logo.png" loading="lazy" width="137" sizes="(max-width: 479px) 35vw, (max-width: 767px) 25vw, 136.9921875px" alt="" srcset="https://s31073.pcdn.co/wf-assets/images/dv-20logo-p-500.png 500w, https://s31073.pcdn.co/wf-assets/images/dv-20logo-p-800.png 800w, https://s31073.pcdn.co/wf-assets/images/dv-20logo-p-1080.png 1080w, https://s31073.pcdn.co/wf-assets/images/dv-20logo.png 1600w" class="section-advertisers-audience_logo-image">
+                                    <img src="/asset/img/dv-20logo.png" loading="lazy" width="137" sizes="(max-width: 479px) 35vw, (max-width: 767px) 25vw, 136.9921875px" alt="" srcset="/asset/img/dv-20logo-p-500.png 500w, /asset/img/dv-20logo-p-800.png 800w, /asset/img/dv-20logo-p-1080.png 1080w, /asset/img/dv-20logo.png 1600w" class="section-advertisers-audience_logo-image">
                                 </div>
                             </div>
                             <div class="section-advertisers-audience_logo reset-width">
                                 <div class="w-embed">
-                                    <img src="https://s31073.pcdn.co/wf-assets/images/ttd-202.png" loading="lazy" width="180" sizes="(max-width: 479px) 100vw, (max-width: 767px) 160px, 180px" alt="" srcset="https://s31073.pcdn.co/wf-assets/images/ttd-202-p-500.png 500w, https://s31073.pcdn.co/wf-assets/images/ttd-202-p-800.png 800w, https://s31073.pcdn.co/wf-assets/images/ttd-202.png 902w" class="section-advertisers-audience_logo-image custom-tdd">
+                                    <img src="/asset/img/ttd-202.png" loading="lazy" width="180" sizes="(max-width: 479px) 100vw, (max-width: 767px) 160px, 180px" alt="" srcset="/asset/img/ttd-202-p-500.png 500w, /asset/img/ttd-202-p-800.png 800w, /asset/img/ttd-202.png 902w" class="section-advertisers-audience_logo-image custom-tdd">
                                 </div>
                             </div>
                             <div class="section-advertisers-audience_logo reset-width">
                                 <div class="w-embed">
-                                    <img src="https://s31073.pcdn.co/wf-assets/images/deep-20intent.png" loading="lazy" width="180" alt="" class="section-advertisers-audience_logo-image custom-dt">
+                                    <img src="/asset/img/deep-20intent.png" loading="lazy" width="180" alt="" class="section-advertisers-audience_logo-image custom-dt">
                                 </div>
                             </div>
                             <div class="section-advertisers-audience_logo">
                                 <div class="w-embed">
-                                    <img src="https://s31073.pcdn.co/wf-assets/images/epsilon.png" loading="lazy" width="146" alt="" class="section-advertisers-audience_logo-image">
+                                    <img src="/asset/img/epsilon.png" loading="lazy" width="146" alt="" class="section-advertisers-audience_logo-image">
                                 </div>
                             </div>
                             <div class="section-advertisers-audience_logo">
                                 <div class="w-embed">
-                                    <img src="https://s31073.pcdn.co/wf-assets/images/yahoo-20adv.png" loading="lazy" width="146" alt="" class="section-advertisers-audience_logo-image">
+                                    <img src="/asset/img/yahoo-20adv.png" loading="lazy" width="146" alt="" class="section-advertisers-audience_logo-image">
                                 </div>
                             </div>
                         </div>
@@ -382,7 +382,7 @@
                                     <div class="max-width-large">
                                         <div class="text-align-center">
                                             <div class="text-color-white">
-                                                <h3 id="contact" class="heading-style-h3 get-in-touch color-tablet">Let’s talk about what Media.net can do for you!</h3>
+                                                <h3 id="contact" class="heading-style-h3 get-in-touch color-tablet">Let’s talk about what MyMaximizer.com can do for you!</h3>
                                             </div>
                                         </div>
                                         <div class="spacer-xlarge"></div>

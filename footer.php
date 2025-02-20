@@ -140,7 +140,7 @@
                                             <div class="spacer-xsmall"></div>
                                             <div class="text-size-xxsmall">
                                                 © <span class="year-block">2024</span>
-                                                Media.net
+                                                MyMaximizer.com
                                             </div>
                                         </a>
                                     </div>

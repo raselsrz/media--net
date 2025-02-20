@@ -3,7 +3,7 @@
 <html data-wf-domain="prodwf.media.net" data-wf-page="6707b682c0cfebcc246986ce" data-wf-site="66ed1f19164e8996fdcbd2db">
     <head>
         <meta charset="utf-8"/>
-        <title>Programmatic Solutions for Advertisers | Media.net</title>
+        <title>Programmatic Solutions for Advertisers | MyMaximizer.com</title>
         <meta content="Reach target audiences through premium inventory, leveraging our data-driven solutions." name="description"/>
         <meta content="Programmatic Solutions for Advertisers | Media.net" property="og:title"/>
         <meta property="og:type" content="website"/>

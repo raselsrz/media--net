@@ -422,37 +422,37 @@ padding-right: 0rem !important;
 padding-left: 0rem !important;
 }
 .section-publishers-hero_grid {
-    background-image: url("https://s31073.pcdn.co/wf-assets/images/publisher-hero-bg.png");
+    background-image: url("/asset/img/publisher-hero-bg.png");
     background-size: 820px;
 }
 
 .section-advertisers-activation_card-inner.card-1 {
-    background-image: url("https://s31073.pcdn.co/wf-assets/images/home-outcome-card-01.png");
+    background-image: url("/asset/img/home-outcome-card-01.png");
     background-size: cover;
 }
 
 .section-advertisers-activation_card-inner.card-2 {
-    background-image: url("https://s31073.pcdn.co/wf-assets/images/home-outcome-card-02.png");
+    background-image: url("/asset/img/home-outcome-card-02.png");
     background-size: cover;
 }
 
 .section-advertisers-activation_card-inner.card-3 {
-    background-image: url("https://s31073.pcdn.co/wf-assets/images/home-outcome-card-03.png");
+    background-image: url("/asset/img/home-outcome-card-03.png");
     background-size: cover;
 }
 
 .section-advertisers-activation_card-inner.card-4 {
-    background-image: url("https://s31073.pcdn.co/wf-assets/images/home-outcome-card-04.png");
+    background-image: url("/asset/img/home-outcome-card-04.png");
     background-size: cover;
 }
 
 .section-advertisers-audience_logos-container {
-    background-image: url("https://s31073.pcdn.co/wf-assets/images/advertisers-logo-bg-pattern.png");
+    background-image: url("/asset/img/advertisers-logo-bg-pattern.png");
     background-size: cover;
 }
 
 .section-contact_bg {
-    background-image: url("https://s31073.pcdn.co/wf-assets/images/contact-us-bg-pattern.png");
+    background-image: url("/asset/img/contact-us-bg-pattern.png");
     background-position: 50%;
     background-repeat: no-repeat;
     background-size: 1728px;

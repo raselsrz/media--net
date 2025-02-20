@@ -6,8 +6,8 @@
                             <div class="spacer-large"></div>
                             <div class="section-dd-hero_bg">
                                 <div class="text-align-center">
-                                    <h1 class="section-dd-hero_heading hide">Achieve your campaign KPIs with Media.net inventory packages.</h1>
-                                    <h1 class="heading-style-h3 deals-desk">Achieve your campaign KPIs with Media.net inventory packages.</h1>
+                                    <h1 class="section-dd-hero_heading hide">Achieve your campaign KPIs with MyMaximizer.com inventory packages.</h1>
+                                    <h1 class="heading-style-h3 deals-desk">Achieve your campaign KPIs with MyMaximizer.com inventory packages.</h1>
                                 </div>
                                 <div class="spacer-large"></div>
                                 <div class="section-dd-hero_list">
@@ -104,7 +104,7 @@
                                                         </div>
                                                     </div>
                                                     <div class="w-embed">
-                                                        <img src="https://s31073.pcdn.co/wf-assets/images/performance-attention.png" loading="lazy" width="508" sizes="(max-width: 479px) 100vw, (max-width: 767px) 89vw, (max-width: 991px) 52vw, (max-width: 1439px) 27vw, 28vw" alt="" srcset="https://s31073.pcdn.co/wf-assets/images/performance-attention-p-500.png 500w, https://s31073.pcdn.co/wf-assets/images/performance-attention-p-800.png 800w, https://s31073.pcdn.co/wf-assets/images/performance-attention.png 1016w" class="section-dd-deals_card-bg" style="filter: blur(0px);">
+                                                        <img src="/asset/img/performance-attention.png" loading="lazy" width="508" sizes="(max-width: 479px) 100vw, (max-width: 767px) 89vw, (max-width: 991px) 52vw, (max-width: 1439px) 27vw, 28vw" alt="" srcset="/asset/img/performance-attention-p-500.png 500w, /asset/img/performance-attention-p-800.png 800w, /asset/img/performance-attention.png 1016w" class="section-dd-deals_card-bg" style="filter: blur(0px);">
                                                     </div>
                                                 </div>
                                                 <div id="w-node-_61c6a061-7a73-a148-c2d6-cfa52e1c6250-35580969" class="section-dd-deals_card">
@@ -115,7 +115,7 @@
                                                         </div>
                                                     </div>
                                                     <div class="w-embed">
-                                                        <img src="https://s31073.pcdn.co/wf-assets/images/performance-engagement.png" loading="lazy" width="508" sizes="(max-width: 479px) 100vw, (max-width: 767px) 89vw, (max-width: 991px) 52vw, (max-width: 1439px) 27vw, 28vw" alt="" srcset="https://s31073.pcdn.co/wf-assets/images/performance-engagement-p-500.png 500w, https://s31073.pcdn.co/wf-assets/images/performance-engagement-p-800.png 800w, https://s31073.pcdn.co/wf-assets/images/performance-engagement.png 1016w" class="section-dd-deals_card-bg" style="filter: blur(0px);">
+                                                        <img src="/asset/img/performance-engagement.png" loading="lazy" width="508" sizes="(max-width: 479px) 100vw, (max-width: 767px) 89vw, (max-width: 991px) 52vw, (max-width: 1439px) 27vw, 28vw" alt="" srcset="/asset/img/performance-engagement-p-500.png 500w, /asset/img/performance-engagement-p-800.png 800w, /asset/img/performance-engagement.png 1016w" class="section-dd-deals_card-bg" style="filter: blur(0px);">
                                                     </div>
                                                 </div>
                                                 <div id="w-node-_61c6a061-7a73-a148-c2d6-cfa52e1c6257-35580969" class="section-dd-deals_card">
@@ -126,7 +126,7 @@
                                                         </div>
                                                     </div>
                                                     <div class="w-embed">
-                                                        <img src="https://s31073.pcdn.co/wf-assets/images/performance-conversion.png" loading="lazy" width="508" sizes="(max-width: 479px) 100vw, (max-width: 767px) 89vw, (max-width: 991px) 52vw, (max-width: 1439px) 27vw, 28vw" alt="" srcset="https://s31073.pcdn.co/wf-assets/images/performance-conversion-p-500.png 500w, https://s31073.pcdn.co/wf-assets/images/performance-conversion-p-800.png 800w, https://s31073.pcdn.co/wf-assets/images/performance-conversion.png 1016w" class="section-dd-deals_card-bg" style="filter: blur(0px);">
+                                                        <img src="/asset/img/performance-conversion.png" loading="lazy" width="508" sizes="(max-width: 479px) 100vw, (max-width: 767px) 89vw, (max-width: 991px) 52vw, (max-width: 1439px) 27vw, 28vw" alt="" srcset="/asset/img/performance-conversion-p-500.png 500w, /asset/img/performance-conversion-p-800.png 800w, /asset/img/performance-conversion.png 1016w" class="section-dd-deals_card-bg" style="filter: blur(0px);">
                                                     </div>
                                                 </div>
                                                 <div id="w-node-_61c6a061-7a73-a148-c2d6-cfa52e1c625e-35580969" class="section-dd-deals_card">
@@ -137,7 +137,7 @@
                                                         </div>
                                                     </div>
                                                     <div class="w-embed">
-                                                        <img src="https://s31073.pcdn.co/wf-assets/images/performance-200-club.png" loading="lazy" width="508" sizes="(max-width: 479px) 100vw, (max-width: 767px) 89vw, (max-width: 991px) 52vw, (max-width: 1439px) 27vw, 28vw" alt="" srcset="https://s31073.pcdn.co/wf-assets/images/performance-200-club-p-500.png 500w, https://s31073.pcdn.co/wf-assets/images/performance-200-club-p-800.png 800w, https://s31073.pcdn.co/wf-assets/images/performance-200-club.png 1016w" class="section-dd-deals_card-bg" style="filter: blur(0px);">
+                                                        <img src="/asset/img/performance-200-club.png" loading="lazy" width="508" sizes="(max-width: 479px) 100vw, (max-width: 767px) 89vw, (max-width: 991px) 52vw, (max-width: 1439px) 27vw, 28vw" alt="" srcset="/asset/img/performance-200-club-p-500.png 500w, /asset/img/performance-200-club-p-800.png 800w, /asset/img/performance-200-club.png 1016w" class="section-dd-deals_card-bg" style="filter: blur(0px);">
                                                     </div>
                                                 </div>
                                             </div>
@@ -195,7 +195,7 @@
                                                         </div>
                                                     </div>
                                                     <div class="w-embed">
-                                                        <img src="https://s31073.pcdn.co/wf-assets/images/seasonal-20deals.png" loading="lazy" width="1040" sizes="(max-width: 479px) 100vw, (max-width: 767px) 89vw, (max-width: 991px) 52vw, (max-width: 1439px) 57vw, 59vw" alt="" srcset="https://s31073.pcdn.co/wf-assets/images/seasonal-20deals-p-500.png 500w, https://s31073.pcdn.co/wf-assets/images/seasonal-20deals-p-800.png 800w, https://s31073.pcdn.co/wf-assets/images/seasonal-20deals-p-1080.png 1080w, https://s31073.pcdn.co/wf-assets/images/seasonal-20deals-p-1600.png 1600w, https://s31073.pcdn.co/wf-assets/images/seasonal-20deals.png 2080w" class="section-dd-deals_full-card-bg" style="filter: blur(0px);">
+                                                        <img src="/asset/img/seasonal-20deals.png" loading="lazy" width="1040" sizes="(max-width: 479px) 100vw, (max-width: 767px) 89vw, (max-width: 991px) 52vw, (max-width: 1439px) 57vw, 59vw" alt="" srcset="/asset/img/seasonal-20deals-p-500.png 500w, /asset/img/seasonal-20deals-p-800.png 800w, /asset/img/seasonal-20deals-p-1080.png 1080w, /asset/img/seasonal-20deals-p-1600.png 1600w, /asset/img/seasonal-20deals.png 2080w" class="section-dd-deals_full-card-bg" style="filter: blur(0px);">
                                                     </div>
                                                 </div>
                                                 <div id="w-node-a620f34f-dde1-5c0f-6eec-f8ca4a168263-35580969" class="section-dd-deals_full-card">
@@ -239,7 +239,7 @@
                                                         </div>
                                                     </div>
                                                     <div class="w-embed">
-                                                        <img src="https://s31073.pcdn.co/wf-assets/images/always-on-20deals.png" loading="lazy" width="1040" sizes="(max-width: 479px) 100vw, (max-width: 767px) 89vw, (max-width: 991px) 52vw, (max-width: 1439px) 57vw, 59vw" alt="" srcset="https://s31073.pcdn.co/wf-assets/images/always-on-20deals-p-500.png 500w, https://s31073.pcdn.co/wf-assets/images/always-on-20deals-p-800.png 800w, https://s31073.pcdn.co/wf-assets/images/always-on-20deals-p-1080.png 1080w, https://s31073.pcdn.co/wf-assets/images/always-on-20deals-p-1600.png 1600w, https://s31073.pcdn.co/wf-assets/images/always-on-20deals.png 2080w" class="section-dd-deals_full-card-bg" style="filter: blur(0px);">
+                                                        <img src="/asset/img/always-on-20deals.png" loading="lazy" width="1040" sizes="(max-width: 479px) 100vw, (max-width: 767px) 89vw, (max-width: 991px) 52vw, (max-width: 1439px) 57vw, 59vw" alt="" srcset="/asset/img/always-on-20deals-p-500.png 500w, /asset/img/always-on-20deals-p-800.png 800w, /asset/img/always-on-20deals-p-1080.png 1080w, /asset/img/always-on-20deals-p-1600.png 1600w, /asset/img/always-on-20deals.png 2080w" class="section-dd-deals_full-card-bg" style="filter: blur(0px);">
                                                     </div>
                                                 </div>
                                             </div>
@@ -250,7 +250,7 @@
                                         <div class="section-dd-sticky_main-header">
                                             <div class="max-width-large">
                                                 <h3 class="section-dd-sticky_main-title">
-                                                    <span class="text-color-ruby-blaze">Media.net ONE Deals</span>
+                                                    <span class="text-color-ruby-blaze">MyMaximizer.com ONE Deals</span>
                                                 </h3>
                                             </div>
                                         </div>
@@ -259,7 +259,7 @@
                                                 <div class="section-dd-deals_folio-card">
                                                     <div class="section-dd-deals_folio-card-visual">
                                                         <div class="w-embed">
-                                                            <img src="https://s31073.pcdn.co/wf-assets/images/eco-2b.png" loading="lazy" width="320" sizes="(max-width: 479px) 100vw, (max-width: 767px) 83vw, (max-width: 991px) 45vw, (max-width: 1439px) 28vw, 21vw" alt="" srcset="https://s31073.pcdn.co/wf-assets/images/eco-2b-p-500.png 500w, https://s31073.pcdn.co/wf-assets/images/eco-2b.png 640w" class="image-3">
+                                                            <img src="/asset/img/eco-2b.png" loading="lazy" width="320" sizes="(max-width: 479px) 100vw, (max-width: 767px) 83vw, (max-width: 991px) 45vw, (max-width: 1439px) 28vw, 21vw" alt="" srcset="/asset/img/eco-2b-p-500.png 500w, /asset/img/eco-2b.png 640w" class="image-3">
                                                         </div>
                                                     </div>
                                                     <div class="section-dd-deals_folio-card-content">
@@ -286,7 +286,7 @@
                                                 <div class="section-dd-deals_folio-card reverse">
                                                     <div class="section-dd-deals_folio-card-visual">
                                                         <div class="w-embed">
-                                                            <img src="https://s31073.pcdn.co/wf-assets/images/dei-2b.png" loading="lazy" width="320" sizes="(max-width: 479px) 100vw, (max-width: 767px) 83vw, (max-width: 991px) 45vw, (max-width: 1439px) 28vw, 21vw" alt="" srcset="https://s31073.pcdn.co/wf-assets/images/dei-2b-p-500.png 500w, https://s31073.pcdn.co/wf-assets/images/dei-2b.png 640w" class="image-4">
+                                                            <img src="/asset/img/dei-2b.png" loading="lazy" width="320" sizes="(max-width: 479px) 100vw, (max-width: 767px) 83vw, (max-width: 991px) 45vw, (max-width: 1439px) 28vw, 21vw" alt="" srcset="/asset/img/dei-2b-p-500.png 500w, /asset/img/dei-2b.png 640w" class="image-4">
                                                         </div>
                                                     </div>
                                                     <div class="section-dd-deals_folio-card-content">

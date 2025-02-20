@@ -6,7 +6,7 @@
                             <div class="spacer-large"></div>
                             <div class="section-contextual-hero_grid">
                                 <div id="w-node-_2d7b1ffc-70e2-010a-8247-2e8a27d038b1-3d9d5e6b" class="section-contextual-hero_content">
-                                    <h3 class="section-contextual-hero_heading">Media.net SearchSignals, the only search insights-driven contextual engine in the industry.</h3>
+                                    <h3 class="section-contextual-hero_heading">MyMaximizer.com SearchSignals, the only search insights-driven contextual engine in the industry.</h3>
                                     <div class="spacer-xmedium"></div>
                                     <div class="text-size-small pub-ad">Access the richest data set of search intent and consumer insights from the only SSP that has powered search and performance advertising for 15+ years.</div>
                                     <div class="spacer-xmedium"></div>
@@ -28,7 +28,7 @@
                                 </div>
                                 <div id="w-node-_2d7b1ffc-70e2-010a-8247-2e8a27d038b7-3d9d5e6b" class="section-contextual-hero_visual">
                                     <div class="w-embed">
-                                        <img src="https://s31073.pcdn.co/wf-assets/images/contextual-hero.png" loading="eager" width="796" sizes="(max-width: 479px) 100vw, (max-width: 991px) 83vw, (max-width: 1439px) 44vw, 39vw" alt="" srcset="https://s31073.pcdn.co/wf-assets/images/contextual-hero-p-500.png 500w, https://s31073.pcdn.co/wf-assets/images/contextual-hero-p-800.png 800w, https://s31073.pcdn.co/wf-assets/images/contextual-hero-p-1080.png 1080w, https://s31073.pcdn.co/wf-assets/images/contextual-hero.png 1592w" class="section-contextual-hero_visual-image">
+                                        <img src="/asset/img/contextual-hero.png" loading="eager" width="796" sizes="(max-width: 479px) 100vw, (max-width: 991px) 83vw, (max-width: 1439px) 44vw, 39vw" alt="" srcset="/asset/img/contextual-hero-p-500.png 500w, /asset/img/contextual-hero-p-800.png 800w, /asset/img/contextual-hero-p-1080.png 1080w, /asset/img/contextual-hero.png 1592w" class="section-contextual-hero_visual-image">
                                     </div>
                                 </div>
                             </div>
@@ -76,7 +76,7 @@
                                                 </div>
                                             </div>
                                             <div class="text-color-dark-grey">
-                                                <div class="text-size-regular">in Media.net ContextGraph for targeting, conquesting, or look-alike modeling.</div>
+                                                <div class="text-size-regular">in MyMaximizer.com ContextGraph for targeting, conquesting, or look-alike modeling.</div>
                                             </div>
                                         </div>
                                         <div class="section-outcome_card-bg-3"></div>
@@ -99,15 +99,15 @@
                             <div class="spacer-huge hide-mobile"></div>
                             <div class="video-embed w-embed">
                                 <video style="width:100%;height:100%;object-fit:cover;margin-top: 20px;" muted="" playsinline="" data-play-in-view="once" data-play-in-view-threshold="0.3">
-                                    <source src="https://www.media.net/webflow/contextual-page/contextual-motion.mp4" type="video/mp4; codecs=&quot;hvc1&quot;">
-                                    <source src="https://www.media.net/webflow/contextual-page/contextual-motion.webm" type="video/webm">Your browser does not support the video tag.
+                                    <source src="https://www.MyMaximizer.com/webflow/contextual-page/contextual-motion.mp4" type="video/mp4; codecs=&quot;hvc1&quot;">
+                                    <source src="https://www.MyMaximizer.com/webflow/contextual-page/contextual-motion.webm" type="video/webm">Your browser does not support the video tag.
 
                                 </video>
                             </div>
                             <div class="spacer-huge"></div>
                             <div class="max-width-xxlarge">
                                 <h3 class="section-contextual-folio_main-title">
-                                    <span class="text-color-ruby-blaze">Media.net SearchSignals</span>
+                                    <span class="text-color-ruby-blaze">MyMaximizer.com SearchSignals</span>
                                     provides unmatched granularity &amp;nuance to match your message to the moment, in environments of your choice.
                                 </h3>
                             </div>
@@ -124,7 +124,7 @@
                                     <div class="section-contextual-signals_folio-row col-reverse">
                                         <div class="section-contextual-signals_folio-visual">
                                             <div class="w-embed">
-                                                <img src="https://s31073.pcdn.co/wf-assets/images/contextual-intent.png" loading="eager" width="812" sizes="(max-width: 767px) 94vw, (max-width: 991px) 39vw, 43vw" alt="" srcset="https://s31073.pcdn.co/wf-assets/images/contextual-intent-p-500.png 500w, https://s31073.pcdn.co/wf-assets/images/contextual-intent-p-800.png 800w, https://s31073.pcdn.co/wf-assets/images/contextual-intent-p-1080.png 1080w, https://s31073.pcdn.co/wf-assets/images/contextual-intent.png 1320w">
+                                                <img src="/asset/img/contextual-intent.png" loading="eager" width="812" sizes="(max-width: 767px) 94vw, (max-width: 991px) 39vw, 43vw" alt="" srcset="/asset/img/contextual-intent-p-500.png 500w, /asset/img/contextual-intent-p-800.png 800w, /asset/img/contextual-intent-p-1080.png 1080w, /asset/img/contextual-intent.png 1320w">
                                             </div>
                                             <div class="section-contextual-signals_folio-visual-info">
                                                 <div>Use the power of search to plan your audience-building and targeting strategy.</div>
@@ -168,7 +168,7 @@
                                     <div class="section-contextual-signals_folio-row">
                                         <div class="section-contextual-signals_folio-visual">
                                             <div class="w-embed">
-                                                <img src="https://s31073.pcdn.co/wf-assets/images/contextual-segments.png" loading="eager" width="812" sizes="(max-width: 479px) 94vw, (max-width: 767px) 96vw, (max-width: 991px) 46vw, 43vw" alt="" srcset="https://s31073.pcdn.co/wf-assets/images/contextual-segments-p-500.png 500w, https://s31073.pcdn.co/wf-assets/images/contextual-segments-p-800.png 800w, https://s31073.pcdn.co/wf-assets/images/contextual-segments-p-1080.png 1080w, https://s31073.pcdn.co/wf-assets/images/contextual-segments.png 1320w">
+                                                <img src="/asset/img/contextual-segments.png" loading="eager" width="812" sizes="(max-width: 479px) 94vw, (max-width: 767px) 96vw, (max-width: 991px) 46vw, 43vw" alt="" srcset="/asset/img/contextual-segments-p-500.png 500w, /asset/img/contextual-segments-p-800.png 800w, /asset/img/contextual-segments-p-1080.png 1080w, /asset/img/contextual-segments.png 1320w">
                                             </div>
                                             <div class="section-contextual-signals_folio-visual-info">
                                                 <div>Enrich and expand brand reach via our extensive library of context-driven segments.</div>
@@ -212,7 +212,7 @@
                                     <div class="section-contextual-signals_folio-row col-reverse">
                                         <div class="section-contextual-signals_folio-visual">
                                             <div class="w-embed">
-                                                <img src="https://s31073.pcdn.co/wf-assets/images/contextual-post-clicks.png" loading="eager" width="812" sizes="(max-width: 479px) 94vw, (max-width: 767px) 96vw, (max-width: 991px) 46vw, 43vw" alt="" srcset="https://s31073.pcdn.co/wf-assets/images/contextual-post-clicks-p-500.png 500w, https://s31073.pcdn.co/wf-assets/images/contextual-post-clicks-p-800.png 800w, https://s31073.pcdn.co/wf-assets/images/contextual-post-clicks-p-1080.png 1080w, https://s31073.pcdn.co/wf-assets/images/contextual-post-clicks.png 1320w">
+                                                <img src="/asset/img/contextual-post-clicks.png" loading="eager" width="812" sizes="(max-width: 479px) 94vw, (max-width: 767px) 96vw, (max-width: 991px) 46vw, 43vw" alt="" srcset="/asset/img/contextual-post-clicks-p-500.png 500w, /asset/img/contextual-post-clicks-p-800.png 800w, /asset/img/contextual-post-clicks-p-1080.png 1080w, /asset/img/contextual-post-clicks.png 1320w">
                                             </div>
                                             <div class="section-contextual-signals_folio-visual-info">
                                                 <div>Deploy actionable insights to your campaigns backed by a team of human experts.</div>
@@ -257,7 +257,7 @@
                                         <div class="section-contextual-signals_main-header">
                                             <div class="max-width-xlarge">
                                                 <h3 class="section-contextual-folio_main-title">
-                                                    <span class="text-color-ruby-blaze">Media.net SearchSignals™</span>
+                                                    <span class="text-color-ruby-blaze">MyMaximizer.com SearchSignals™</span>
                                                     provides unmatched granularity and nuance to match your message to the moment, in environments of your choice.
                                                 </h3>
                                             </div>
@@ -372,7 +372,7 @@
                                     <div class="max-width-large">
                                         <div class="text-align-center">
                                             <div class="text-color-white">
-                                                <h3 id="contact" class="heading-style-h3 get-in-touch color-tablet">Let’s talk about what Media.net can do for you!</h3>
+                                                <h3 id="contact" class="heading-style-h3 get-in-touch color-tablet">Let’s talk about what MyMaximizer.com can do for you!</h3>
                                             </div>
                                         </div>
                                         <div class="spacer-xlarge"></div>

@@ -6,7 +6,7 @@
                             <div class="spacer-large"></div>
                             <div class="section-publishers-hero_grid">
                                 <div id="w-node-_2d7b1ffc-70e2-010a-8247-2e8a27d038b1-821b20d9" class="section-publishers-hero_content">
-                                    <h3 class="section-publishers-hero_heading">Media.net transforms your content-rich environments into a revenue powerhouse.</h3>
+                                    <h3 class="section-publishers-hero_heading">MyMaximizer.com transforms your content-rich environments into a revenue powerhouse.</h3>
                                     <div class="spacer-xmedium"></div>
                                     <div class="text-size-small pub-ad">That &#x27;s why some of the biggest and highest quality publishers and media owners on the open web rely on us for outcomes aligned with their long-term success.</div>
                                     <div class="spacer-xmedium"></div>
@@ -128,7 +128,7 @@
                                                     </h5>
                                                     <div class="spacer-xxsmall"></div>
                                                     <div class="max-width-xxmedium">
-                                                        <div class="text-size-xsmall">Our fully managed Prebid header bidding platform puts the very best of Media.net &#x27;s machine learning and white-glove service at your disposal to maximize the value of every single impression.</div>
+                                                        <div class="text-size-xsmall">Our fully managed Prebid header bidding platform puts the very best of MyMaximizer.com &#x27;s machine learning and white-glove service at your disposal to maximize the value of every single impression.</div>
                                                     </div>
                                                     <div class="spacer-medium"></div>
                                                 </div>
@@ -189,7 +189,7 @@ does not fit all.</div>
                                                     </h5>
                                                     <div class="spacer-xxsmall"></div>
                                                     <div class="max-width-xxmedium">
-                                                        <div class="text-size-xxsmall">Our fully managed Prebid header bidding platform puts the very best of Media.net &#x27;s machine learning and 
+                                                        <div class="text-size-xxsmall">Our fully managed Prebid header bidding platform puts the very best of MyMaximizer.com &#x27;s machine learning and 
 white-glove service at your disposal to maximize the value of every single impression.</div>
                                                     </div>
                                                     <div class="spacer-medium"></div>
@@ -237,7 +237,7 @@ does not fit all.</div>
                                             <div class="section-publishers-sticky_main-divider"></div>
                                             <div class="section-publishers-sticky_main-content">
                                                 <div>
-                                                    <h5 class="heading-style-h5">Engage users &amp;unlock new revenue with Media.net</h5>
+                                                    <h5 class="heading-style-h5">Engage users &amp;unlock new revenue with MyMaximizer.com</h5>
                                                     <div class="spacer-xxsmall"></div>
                                                     <div class="max-width-xxmedium">
                                                         <div class="text-size-xsmall">Our AI-enabled vertical video experience for the open web. Enhance your user engagement and boost your eCPMs via immersive vertical video experiences.</div>
@@ -248,8 +248,8 @@ does not fit all.</div>
                                                 <div>
                                                     <div class="video-embed w-embed">
                                                         <video style="width:100%;height:100%;object-fit:cover" autoplay="" loop="" muted="" playsinline="">
-                                                            <source src="https://www.media.net/webflow/publishers-page/visual.mp4" type="video/mp4; codecs=&quot;hvc1&quot;">
-                                                            <source src="https://www.media.net/webflow/publishers-page/visual.webm" type="video/webm">Your browser does not support the video tag.
+                                                            <source src="https://www.MyMaximizer.com/webflow/publishers-page/visual.mp4" type="video/mp4; codecs=&quot;hvc1&quot;">
+                                                            <source src="https://www.MyMaximizer.com/webflow/publishers-page/visual.webm" type="video/webm">Your browser does not support the video tag.
 
                                                         </video>
                                                     </div>
@@ -271,7 +271,7 @@ does not fit all.</div>
                                                         </div>
                                                         <div class="spacer-tiny"></div>
                                                         <div class="text-color-grey">
-                                                            <div class="text-size-xsmall text-color-jet-grey">with Media.net &#x27;s proprietary content recommendation engine. Serve videos that are both high-engagement and contextually relevant.</div>
+                                                            <div class="text-size-xsmall text-color-jet-grey">with MyMaximizer.com &#x27;s proprietary content recommendation engine. Serve videos that are both high-engagement and contextually relevant.</div>
                                                         </div>
                                                     </div>
                                                     <div id="w-node-_0ceb7759-832b-5553-8769-2c5724138324-821b20d9">
@@ -352,7 +352,7 @@ does not fit all.</div>
                                         <div class="section-publishers-testimonial_list">
                                             <div class="section-publishers-testimonial_list-item">
                                                 <div class="section-publishers-testimonial_list-item-inner">
-                                                    <div class="section-publishers-testimonial_text">Media.net brings solid technical acumen to the table, backed by a team that works in perfect sync with us and our partners. They kept a strict check on revenue impact throughout the transition and have consistently made recommendations that have boosted our yield. The custom features Media.net has created for us, and their proactive approach to identifying new revenue opportunities, are all in line with their reputation of being miles ahead of other SSPs.</div>
+                                                    <div class="section-publishers-testimonial_text">MyMaximizer.com brings solid technical acumen to the table, backed by a team that works in perfect sync with us and our partners. They kept a strict check on revenue impact throughout the transition and have consistently made recommendations that have boosted our yield. The custom features MyMaximizer.com has created for us, and their proactive approach to identifying new revenue opportunities, are all in line with their reputation of being miles ahead of other SSPs.</div>
                                                     <div class="spacer-xmedium"></div>
                                                     <div>
                                                         <img src="https://cdn.prod.website-files.com/66ed1f19164e8996fdcbd2db/672b02a397cebc5d6d933ea9_Time.png" loading="lazy" width="81" height="Auto" alt="" class="testimonial-logo"/>
@@ -365,7 +365,7 @@ does not fit all.</div>
                                             </div>
                                             <div class="section-publishers-testimonial_list-item">
                                                 <div class="section-publishers-testimonial_list-item-inner">
-                                                    <div class="section-publishers-testimonial_text">Media.net has been a terrific partner to us! Not only have they provided us with incredibly effective revenue solutions over the years, they have also offered top-notch support at every step of our journey. At Kobe Shimbun, we have successfully integrated multiple Media.net offerings, with every single one an absolute home-run. The dedication and commitment of the Media.net team have consistently exceeded our expectations, making them a true asset in our success and revenue growth. We value their expertise and look forward to continuing this strong partnership while achieving even greater milestones together.</div>
+                                                    <div class="section-publishers-testimonial_text">MyMaximizer.com has been a terrific partner to us! Not only have they provided us with incredibly effective revenue solutions over the years, they have also offered top-notch support at every step of our journey. At Kobe Shimbun, we have successfully integrated multiple MyMaximizer.com offerings, with every single one an absolute home-run. The dedication and commitment of the MyMaximizer.com team have consistently exceeded our expectations, making them a true asset in our success and revenue growth. We value their expertise and look forward to continuing this strong partnership while achieving even greater milestones together.</div>
                                                     <div class="spacer-xmedium"></div>
                                                     <div>
                                                         <img src="https://cdn.prod.website-files.com/66ed1f19164e8996fdcbd2db/672b039d2c7f77c562c7f152_Kobe.png" loading="lazy" width="123" height="Auto" alt="" class="testimonial-logo"/>
@@ -378,7 +378,7 @@ does not fit all.</div>
                                             </div>
                                             <div class="section-publishers-testimonial_list-item">
                                                 <div class="section-publishers-testimonial_list-item-inner">
-                                                    <div class="section-publishers-testimonial_text">Media.net has consistently proven to be one of our top programmatic partners, delivering exceptional monetization value through unique demand, robust tech, and proactive support. Their commitment to our partnership goes beyond just providing solutions—they actively seek ways to expand our revenue potential with thoughtful strategies that enhance, rather than replicate, existing offerings. This dedication to our growth, combined with their reliable support, has made Media.net an invaluable partner to our success.</div>
+                                                    <div class="section-publishers-testimonial_text">MyMaximizer.com has consistently proven to be one of our top programmatic partners, delivering exceptional monetization value through unique demand, robust tech, and proactive support. Their commitment to our partnership goes beyond just providing solutions—they actively seek ways to expand our revenue potential with thoughtful strategies that enhance, rather than replicate, existing offerings. This dedication to our growth, combined with their reliable support, has made MyMaximizer.com an invaluable partner to our success.</div>
                                                     <div class="spacer-xmedium"></div>
                                                     <div>
                                                         <img src="https://cdn.prod.website-files.com/66ed1f19164e8996fdcbd2db/6735f99f070ee3e1cfc6f975_US%20News.png" loading="lazy" width="82" height="Auto" alt="" class="testimonial-logo"/>
@@ -406,7 +406,7 @@ does not fit all.</div>
                                     <div class="max-width-large">
                                         <div class="text-align-center">
                                             <div class="text-color-white">
-                                                <h3 id="contact" class="heading-style-h3 get-in-touch color-tablet">Let’s talk about what Media.net can do for you!</h3>
+                                                <h3 id="contact" class="heading-style-h3 get-in-touch color-tablet">Let’s talk about what MyMaximizer.com can do for you!</h3>
                                             </div>
                                         </div>
                                         <div class="spacer-xlarge"></div>

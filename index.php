@@ -26,13 +26,13 @@
                                 <div id="w-node-f6af8d41-09dc-816d-264a-a5f8c0bc7698-fdcbd2e2" class="section-hero_visual">
                                     <div class="section-hero_visual-images-wrap">
                                         <div class="w-embed">
-                                            <img src="https://s31073.pcdn.co/wf-assets/images/reach.png" loading="eager" width="618" sizes="(max-width: 479px) 100vw, (max-width: 767px) 67vw, (max-width: 991px) 66vw, (max-width: 1439px) 41vw, 46vw" alt="" srcset="https://s31073.pcdn.co/wf-assets/images/reach-p-500.png 500w, https://s31073.pcdn.co/wf-assets/images/reach-p-800.png 800w, https://s31073.pcdn.co/wf-assets/images/reach-p-1080.png 1080w, https://s31073.pcdn.co/wf-assets/images/reach.png 1236w" class="section-hero_visual-image">
-                                            <img src="https://s31073.pcdn.co/wf-assets/images/conversion.png" loading="eager" width="618" sizes="(max-width: 479px) 100vw, (max-width: 767px) 67vw, (max-width: 991px) 66vw, (max-width: 1439px) 41vw, 46vw" alt="" srcset="https://s31073.pcdn.co/wf-assets/images/conversion-p-500.png 500w, https://s31073.pcdn.co/wf-assets/images/conversion-p-800.png 800w, https://s31073.pcdn.co/wf-assets/images/conversion-p-1080.png 1080w, https://s31073.pcdn.co/wf-assets/images/conversion.png 1236w" class="section-hero_visual-image flip-image">
-                                            <img src="https://s31073.pcdn.co/wf-assets/images/context.png" loading="eager" width="618" sizes="(max-width: 479px) 100vw, (max-width: 767px) 67vw, (max-width: 991px) 66vw, (max-width: 1439px) 41vw, 46vw" alt="" srcset="https://s31073.pcdn.co/wf-assets/images/context-p-500.png 500w, https://s31073.pcdn.co/wf-assets/images/context-p-800.png 800w, https://s31073.pcdn.co/wf-assets/images/context-p-1080.png 1080w, https://s31073.pcdn.co/wf-assets/images/context.png 1236w" class="section-hero_visual-image flip-image">
+                                            <img src="/asset/img/reach.png" loading="eager" width="618" sizes="(max-width: 479px) 100vw, (max-width: 767px) 67vw, (max-width: 991px) 66vw, (max-width: 1439px) 41vw, 46vw" alt="" srcset="/asset/img/reach-p-500.png 500w, /asset/img/reach-p-800.png 800w, /asset/img/reach-p-1080.png 1080w, /asset/img/reach.png 1236w" class="section-hero_visual-image">
+                                            <img src="/asset/img/conversion.png" loading="eager" width="618" sizes="(max-width: 479px) 100vw, (max-width: 767px) 67vw, (max-width: 991px) 66vw, (max-width: 1439px) 41vw, 46vw" alt="" srcset="/asset/img/conversion-p-500.png 500w, /asset/img/conversion-p-800.png 800w, /asset/img/conversion-p-1080.png 1080w, /asset/img/conversion.png 1236w" class="section-hero_visual-image flip-image">
+                                            <img src="/asset/img/context.png" loading="eager" width="618" sizes="(max-width: 479px) 100vw, (max-width: 767px) 67vw, (max-width: 991px) 66vw, (max-width: 1439px) 41vw, 46vw" alt="" srcset="/asset/img/context-p-500.png 500w, /asset/img/context-p-800.png 800w, /asset/img/context-p-1080.png 1080w, /asset/img/context.png 1236w" class="section-hero_visual-image flip-image">
                                         </div>
                                     </div>
                                     <div class="w-embed">
-                                        <img src="https://s31073.pcdn.co/wf-assets/images/hero-bg.png" loading="eager" width="963" sizes="(max-width: 767px) 100vw, (max-width: 991px) 99vw, (max-width: 1439px) 62vw, 69vw" alt="" srcset="https://s31073.pcdn.co/wf-assets/images/hero-bg-p-500.png 500w, https://s31073.pcdn.co/wf-assets/images/hero-bg-p-800.png 800w, https://s31073.pcdn.co/wf-assets/images/hero-bg-p-1080.png 1080w, https://s31073.pcdn.co/wf-assets/images/hero-bg-p-1600.png 1600w, https://s31073.pcdn.co/wf-assets/images/hero-bg.png 1878w" class="section-hero_visual-image-bg">
+                                        <img src="/asset/img/hero-bg.png" loading="eager" width="963" sizes="(max-width: 767px) 100vw, (max-width: 991px) 99vw, (max-width: 1439px) 62vw, 69vw" alt="" srcset="asset/img/hero-bg-p-500.png 500w, asset/img/hero-bg-p-800.png 800w, asset/img/hero-bg-p-1080.png 1080w, asset/img/hero-bg-p-1600.png 1600w, asset/img/hero-bg.png 1878w" class="section-hero_visual-image-bg">
                                     </div>
                                 </div>
                             </div>
@@ -45,7 +45,7 @@
                         <div class="padding-global padding-section-small">
                             <div class="container-large">
                                 <div class="section-band_flex">
-                                    <div class="text-size-regular">Hit your holiday and tax season campaign goals by leveraging Media.net’s curated deals.</div>
+                                    <div class="text-size-regular">Hit your holiday and tax season campaign goals by leveraging MyMaximizer.com’s curated deals.</div>
                                     <div id="w-node-_42dfbf0c-fb87-493f-43fb-6228af90d973-fdcbd2e2" class="button-block flex-no-shrink-or-grow">
                                         <a data-w-id="4ef9efd3-e9ec-d779-6191-1d2dabeaf699" href="/deals-desk" class="button-secondary inverse w-inline-block">
                                             <div class="button-secondary-label inverse">
@@ -207,8 +207,8 @@ geared specifically to your KPIs.
                                 <div class="section-advertisers_visual">
                                     <div class="video-embed w-embed">
                                         <video style="width:100%;height:100%;object-fit:cover" autoplay="" loop="" muted="" playsinline="">
-                                            <source src="https://www.media.net/webflow/homepage/advertiser-homepage-1.mp4" type="video/mp4; codecs=&quot;hvc1&quot;">
-                                            <source src="https://www.media.net/webflow/homepage/advertiser-homepage-1.webm" type="video/webm">Your browser does not support the video tag.
+                                            <source src="https://www.MyMaximizer.com/webflow/homepage/advertiser-homepage-1.mp4" type="video/mp4; codecs=&quot;hvc1&quot;">
+                                            <source src="https://www.MyMaximizer.com/webflow/homepage/advertiser-homepage-1.webm" type="video/webm">Your browser does not support the video tag.
 
                                         </video>
                                     </div>
@@ -225,7 +225,7 @@ geared specifically to your KPIs.
                             <div class="section-publishers_grid">
                                 <div class="section-publishers_visual">
                                     <div class="w-embed">
-                                        <img src="https://s31073.pcdn.co/wf-assets/images/homepage_publisher-visual-20-2-.png" loading="lazy" width="1000" sizes="(max-width: 479px) 100vw, (max-width: 767px) 96vw, (max-width: 991px) 94vw, 46vw" alt="" srcset="https://s31073.pcdn.co/wf-assets/images/homepage_publisher-visual-20-2-p-500.png 500w, https://s31073.pcdn.co/wf-assets/images/homepage_publisher-visual-20-2-p-800.png 800w, https://s31073.pcdn.co/wf-assets/images/homepage_publisher-visual-20-2-p-1080.png 1080w, https://s31073.pcdn.co/wf-assets/images/homepage_publisher-visual-20-2-p-1600.png 1600w, https://s31073.pcdn.co/wf-assets/images/homepage_publisher-visual-20-2-.png 2000w">
+                                    <img src="/asset/img/homepage_publisher-visual-20-2-p-1080.png">
                                     </div>
                                 </div>
                                 <div id="w-node-_2df35e59-6a50-9d8d-c8d7-bfc03c6c2be6-fdcbd2e2" class="section-publishers_content">
@@ -238,7 +238,7 @@ geared specifically to your KPIs.
                                     <div class="max-width-medium">
                                         <div class="text-content-list">
                                             <div class="text-size-small">
-                                                Tap into unique demand with advertising budgets available <span class="text-highlight">only to Media.net</span>
+                                                Tap into unique demand with advertising budgets available <span class="text-highlight">only to MyMaximizer.com</span>
                                                 publishers.
                                             </div>
                                         </div>
@@ -288,7 +288,7 @@ geared specifically to your KPIs.
                                             partnerships &amp;people<span class="text-color-ruby-blaze">.</span>
                                         </h3>
                                         <div class="spacer-xsmall"></div>
-                                        <div class="text-size-small">We work with industry partners who share our vision of a better digital advertising ecosystem. Thanks to our partners and the people who make Media.net, we are single-mindedly focused on making advertising more efficient and publishing more profitable.</div>
+                                        <div class="text-size-small">We work with industry partners who share our vision of a better digital advertising ecosystem. Thanks to our partners and the people who make MyMaximizer.com, we are single-mindedly focused on making advertising more efficient and publishing more profitable.</div>
                                     </div>
                                 </div>
                                 <div class="spacer-large"></div>
@@ -301,32 +301,32 @@ geared specifically to your KPIs.
                                     <div class="section-partners_logo-strip">
                                         <div class="section-partners_logo">
                                             <div class="w-embed">
-                                                <img src="https://s31073.pcdn.co/wf-assets/images/criteo.png" loading="lazy" width="122" alt="" class="section-partners_logo-image">
+                                                <img src="/asset/img/criteo.png" loading="lazy" width="122" alt="" class="section-partners_logo-image">
                                             </div>
                                         </div>
                                         <div class="section-partners_logo">
                                             <div class="w-embed">
-                                                <img src="https://s31073.pcdn.co/wf-assets/images/dv-20logo.png" loading="lazy" width="130" sizes="(max-width: 479px) 28vw, (max-width: 767px) 18vw, (max-width: 1439px) 12vw, 130px" alt="" srcset="https://s31073.pcdn.co/wf-assets/images/dv-20logo-p-500.png 500w, https://s31073.pcdn.co/wf-assets/images/dv-20logo-p-800.png 800w, https://s31073.pcdn.co/wf-assets/images/dv-20logo-p-1080.png 1080w, https://s31073.pcdn.co/wf-assets/images/dv-20logo.png 1600w" class="section-partners_logo-image">
+                                                <img src="/asset/img/dv-20logo.png" loading="lazy" width="130" sizes="(max-width: 479px) 28vw, (max-width: 767px) 18vw, (max-width: 1439px) 12vw, 130px" alt="" srcset="/asset/img/dv-20logo-p-500.png 500w, /asset/img/dv-20logo-p-800.png 800w, /asset/img/dv-20logo-p-1080.png 1080w, /asset/img/dv-20logo.png 1600w" class="section-partners_logo-image">
                                             </div>
                                         </div>
                                         <div class="section-partners_logo custom-mobile-height">
                                             <div class="w-embed">
-                                                <img src="https://s31073.pcdn.co/wf-assets/images/ttd-202.png" loading="lazy" width="180" sizes="(max-width: 479px) 28vw, (max-width: 767px) 18vw, (max-width: 1439px) 16vw, 180px" alt="" srcset="https://s31073.pcdn.co/wf-assets/images/ttd-202-p-500.png 500w, https://s31073.pcdn.co/wf-assets/images/ttd-202-p-800.png 800w, https://s31073.pcdn.co/wf-assets/images/ttd-202.png 902w" class="section-partners_logo-image">
+                                                <img src="/asset/img/ttd-202.png" loading="lazy" width="180" sizes="(max-width: 479px) 28vw, (max-width: 767px) 18vw, (max-width: 1439px) 16vw, 180px" alt="" srcset="/asset/img/ttd-202-p-500.png 500w, /asset/img/ttd-202-p-800.png 800w, /asset/img/ttd-202.png 902w" class="section-partners_logo-image">
                                             </div>
                                         </div>
                                         <div class="section-partners_logo custom-mobile-height">
                                             <div class="w-embed">
-                                                <img src="https://s31073.pcdn.co/wf-assets/images/deep-20intent.png" loading="lazy" width="143" alt="" class="section-partners_logo-image">
+                                                <img src="/asset/img/deep-20intent.png" loading="lazy" width="143" alt="" class="section-partners_logo-image">
                                             </div>
                                         </div>
                                         <div class="section-partners_logo">
                                             <div class="w-embed">
-                                                <img src="https://s31073.pcdn.co/wf-assets/images/epsilon.png" loading="lazy" width="148" alt="" class="section-partners_logo-image">
+                                                <img src="/asset/img/epsilon.png" loading="lazy" width="148" alt="" class="section-partners_logo-image">
                                             </div>
                                         </div>
                                         <div class="section-partners_logo">
                                             <div class="w-embed">
-                                                <img src="https://s31073.pcdn.co/wf-assets/images/yahoo-20adv.png" loading="lazy" width="148" alt="" class="section-partners_logo-image">
+                                                <img src="/asset/img/yahoo-20adv.png" loading="lazy" width="148" alt="" class="section-partners_logo-image">
                                             </div>
                                         </div>
                                     </div>
@@ -340,32 +340,32 @@ geared specifically to your KPIs.
                                     <div class="section-partners_logo-strip">
                                         <div class="section-partners_logo">
                                             <div class="w-embed">
-                                                <img src="https://s31073.pcdn.co/wf-assets/images/time.png" loading="lazy" width="132" alt="" class="section-partners_logo-image">
+                                                <img src="/asset/img/time.png" loading="lazy" width="132" alt="" class="section-partners_logo-image">
                                             </div>
                                         </div>
                                         <div class="section-partners_logo">
                                             <div class="w-embed">
-                                                <img src="https://s31073.pcdn.co/wf-assets/images/ny-20post.png" loading="lazy" width="132" sizes="(max-width: 479px) 28vw, (max-width: 767px) 18vw, (max-width: 1439px) 13vw, 132px" alt="" srcset="https://s31073.pcdn.co/wf-assets/images/ny-20post-p-500.png 500w, https://s31073.pcdn.co/wf-assets/images/ny-20post-p-800.png 800w, https://s31073.pcdn.co/wf-assets/images/ny-20post-p-1080.png 1080w, https://s31073.pcdn.co/wf-assets/images/ny-20post-p-1600.png 1600w, https://s31073.pcdn.co/wf-assets/images/ny-20post-p-2000.png 2000w, https://s31073.pcdn.co/wf-assets/images/ny-20post-p-2600.png 2600w, https://s31073.pcdn.co/wf-assets/images/ny-20post-p-3200.png 3200w, https://s31073.pcdn.co/wf-assets/images/ny-20post.png 3367w" class="section-partners_logo-image">
+                                                <img src="/asset/img/ny-20post.png" loading="lazy" width="132" sizes="(max-width: 479px) 28vw, (max-width: 767px) 18vw, (max-width: 1439px) 13vw, 132px" alt="" srcset="/asset/img/ny-20post-p-500.png 500w, /asset/img/ny-20post-p-800.png 800w, /asset/img/ny-20post-p-1080.png 1080w, /asset/img/ny-20post-p-1600.png 1600w, /asset/img/ny-20post-p-2000.png 2000w, /asset/img/ny-20post-p-2600.png 2600w, /asset/img/ny-20post-p-3200.png 3200w, /asset/img/ny-20post.png 3367w" class="section-partners_logo-image">
                                             </div>
                                         </div>
                                         <div class="section-partners_logo">
                                             <div class="w-embed">
-                                                <img src="https://s31073.pcdn.co/wf-assets/images/everyday-20health.png" loading="lazy" width="102" alt="" class="section-partners_logo-image custom-logo">
+                                                <img src="/asset/img/everyday-20health.png" loading="lazy" width="102" alt="" class="section-partners_logo-image custom-logo">
                                             </div>
                                         </div>
                                         <div class="section-partners_logo">
                                             <div class="w-embed">
-                                                <img src="https://s31073.pcdn.co/wf-assets/images/yahoo.png" loading="lazy" width="118" alt="" class="section-partners_logo-image">
+                                                <img src="/asset/img/yahoo.png" loading="lazy" width="118" alt="" class="section-partners_logo-image">
                                             </div>
                                         </div>
                                         <div class="section-partners_logo">
                                             <div class="w-embed">
-                                                <img src="https://s31073.pcdn.co/wf-assets/images/web-20md.png" loading="lazy" width="120" alt="" class="section-partners_logo-image">
+                                                <img src="/asset/img/web-20md.png" loading="lazy" width="120" alt="" class="section-partners_logo-image">
                                             </div>
                                         </div>
                                         <div class="section-partners_logo">
                                             <div class="w-embed">
-                                                <img src="https://s31073.pcdn.co/wf-assets/images/weather-20channel.png" loading="lazy" width="125" alt="" class="section-partners_logo-image">
+                                                <img src="/asset/img/weather-20channel.png" loading="lazy" width="125" alt="" class="section-partners_logo-image">
                                             </div>
                                         </div>
                                     </div>
@@ -379,37 +379,37 @@ geared specifically to your KPIs.
                                     <div class="section-partners_logo-strip">
                                         <div class="section-partners_logo">
                                             <div class="w-embed">
-                                                <img src="https://s31073.pcdn.co/wf-assets/images/fiducia.png" loading="lazy" width="125" alt="" class="section-partners_logo-image">
+                                                <img src="/asset/img/fiducia.png" loading="lazy" width="125" alt="" class="section-partners_logo-image">
                                             </div>
                                         </div>
                                         <div class="section-partners_logo">
                                             <div class="w-embed">
-                                                <img src="https://s31073.pcdn.co/wf-assets/images/adelaide.png" loading="lazy" width="132" alt="" class="section-partners_logo-image">
+                                                <img src="/asset/img/adelaide.png" loading="lazy" width="132" alt="" class="section-partners_logo-image">
                                             </div>
                                         </div>
                                         <div class="section-partners_logo">
                                             <div class="w-embed">
-                                                <img src="https://s31073.pcdn.co/wf-assets/images/seen-20this.png" loading="lazy" width="102" alt="" class="section-partners_logo-image">
+                                                <img src="/asset/img/seen-20this.png" loading="lazy" width="102" alt="" class="section-partners_logo-image">
                                             </div>
                                         </div>
                                         <div class="section-partners_logo">
                                             <div class="w-embed">
-                                                <img src="https://s31073.pcdn.co/wf-assets/images/jounce.png" loading="lazy" width="118" alt="" class="section-partners_logo-image">
+                                                <img src="/asset/img/jounce.png" loading="lazy" width="118" alt="" class="section-partners_logo-image">
                                             </div>
                                         </div>
                                         <div class="section-partners_logo">
                                             <div class="w-embed">
-                                                <img src="https://s31073.pcdn.co/wf-assets/images/human.png" loading="lazy" width="120" alt="" class="section-partners_logo-image">
+                                                <img src="/asset/img/human.png" loading="lazy" width="120" alt="" class="section-partners_logo-image">
                                             </div>
                                         </div>
                                         <div class="section-partners_logo">
                                             <div class="w-embed">
-                                                <img src="https://s31073.pcdn.co/wf-assets/images/scope-203.png" loading="lazy" width="125" alt="" class="section-partners_logo-image">
+                                                <img src="/asset/img/scope-203.png" loading="lazy" width="125" alt="" class="section-partners_logo-image">
                                             </div>
                                         </div>
                                         <div class="section-partners_logo">
                                             <div class="w-embed">
-                                                <img src="https://s31073.pcdn.co/wf-assets/images/sertify.png" loading="lazy" width="118" alt="" class="section-partners_logo-image">
+                                                <img src="/asset/img/sertify.png" loading="lazy" width="118" alt="" class="section-partners_logo-image">
                                             </div>
                                         </div>
                                     </div>
@@ -427,8 +427,8 @@ geared specifically to your KPIs.
                                 <div class="max-width-xlarge">
                                     <div class="text-align-center">
                                         <h3 class="heading-style-h3">
-                                            Media<span class="text-color-ruby-blaze">.</span>
-                                            net <span class="text-color-ruby-blaze">ONE</span>
+                                        MyMaximizer<span class="text-color-ruby-blaze">.</span>
+                                            com <span class="text-color-ruby-blaze">ONE</span>
                                         </h3>
                                         <div class="spacer-xsmall"></div>
                                         <div class="text-size-small">
@@ -442,7 +442,7 @@ geared specifically to your KPIs.
                                 <div class="full-visual">
                                     <div class="video-embed w-embed">
                                         <video style="width:100%;height:100%;object-fit:cover" autoplay="" loop="" muted="" playsinline="">
-                                            <source src="https://www.media.net/webflow/homepage/homepage-media-ONE.mp4" type="video/mp4">Your browser does not support the video tag.
+                                            <source src="https://www.MyMaximizer.com/webflow/homepage/homepage-media-ONE.mp4" type="video/mp4">Your browser does not support the video tag.
 
                                         </video>
                                     </div>
@@ -460,7 +460,7 @@ geared specifically to your KPIs.
                                     <div class="max-width-large">
                                         <div class="text-align-center">
                                             <div class="text-color-white">
-                                                <h3 id="contact" class="heading-style-h3 get-in-touch color-tablet">Let’s talk about what Media.net can do for you!</h3>
+                                                <h3 id="contact" class="heading-style-h3 get-in-touch color-tablet">Let’s talk about what MyMaximizer.com can do for you!</h3>
                                             </div>
                                         </div>
                                         <div class="spacer-xlarge"></div>
