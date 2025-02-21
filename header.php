@@ -3,27 +3,27 @@
 <html data-wf-domain="prodwf.media.net" data-wf-page="6707b682c0cfebcc246986ce" data-wf-site="66ed1f19164e8996fdcbd2db">
     <head>
         <meta charset="utf-8"/>
-        <title>Programmatic Solutions for Advertisers | MyMaximizer.com</title>
+        <title>Programmatic Solutions for Advertisers | Media.net</title>
         <meta content="Reach target audiences through premium inventory, leveraging our data-driven solutions." name="description"/>
         <meta content="Programmatic Solutions for Advertisers | Media.net" property="og:title"/>
+        <meta content="Reach target audiences through premium inventory, leveraging our data-driven solutions." property="og:description"/>
+        <meta content="https://s31073.pcdn.co/wp-content/uploads/2024/12/mnet-webf-logo.png" property="og:image"/>
+        <meta content="Programmatic Solutions for Advertisers | Media.net" property="twitter:title"/>
+        <meta content="Reach target audiences through premium inventory, leveraging our data-driven solutions." property="twitter:description"/>
+        <meta content="https://s31073.pcdn.co/wp-content/uploads/2024/12/mnet-webf-logo.png" property="twitter:image"/>
         <meta property="og:type" content="website"/>
         <meta content="summary_large_image" name="twitter:card"/>
         <meta content="width=device-width, initial-scale=1" name="viewport"/>
 
-
         <link href="/asset/css/media-net.webflow.2491469ad.min.css" rel="stylesheet" type="text/css"/>
-        <link href="/asset/css/style.css" rel="stylesheet" type="text/css"/>
         <link href="/asset/css/style.css" rel="stylesheet" type="text/css"/>
         
         <!-- Custom Select using Choices -->
         <link rel="stylesheet" href="/asset/css/choices.min.css"/>
 
-
-
-
         <link href="https://fonts.googleapis.com" rel="preconnect"/>
         <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin="anonymous"/>
-        <script src="/asset/js/webfont.js" type="text/javascript"></script>
+        <script src="https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js" type="text/javascript"></script>
         <script type="text/javascript">
             WebFont.load({
                 google: {
@@ -601,23 +601,150 @@
                 ;
             }
         </script>
+        <!-- End Google Tag Manager -->
+        <style>
+            /* Make text look crisper and more legible in all browsers */
+            body {
+                -webkit-font-smoothing: antialiased;
+                -moz-osx-font-smoothing: grayscale;
+                font-smoothing: antialiased;
+                text-rendering: optimizeLegibility;
+            }
+        </style>
+        <!-- Custom Select using Choices -->
+        <style>
+            .section-dd-form_input .choices {
+                margin-bottom: 10px;
+            }
 
+            .section-dd-form_input .choices__inner {
+                background-color: transparent;
+                border: .25px #fff9;
+                border-bottom-style: solid;
+                padding: 8px 12px;
+                min-height: 35px;
+            }
 
+            .section-dd-form_input .choices__list--single {
+                padding: 0;
+            }
+
+            .section-dd-form_input .choices__list--dropdown {
+                color: #0F0F10;
+            }
+
+            .w-nav-overlay {
+                top: 85%;
+            }
+
+            .w-nav-overlay [data-nav-menu-open] {
+                top: -5px;
+                position: absolute;
+            }
+
+            [data-nav-menu-open] {
+                text-align: center;
+                background: #c8c8c8;
+                position: absolute;
+                top: 100%;
+                left: 20px;
+                right: 20px;
+                overflow: visible;
+                display: block !important;
+            }
+
+            *[tabindex]:focus-visible, .form-block w-form input[type="file"]:focus-visible {
+                outline: none !important;
+            }
+
+            @media screen and (max-width: 991px) {
+                .nav_menu {
+                    background-color: var(--brand-colors--purple-light);
+                    border-radius: 1rem;
+                    flex-flow: row;
+                    margin-top: .5rem;
+                    box-shadow: 0 0 20px #00000026;
+                    padding: 1rem 0;
+                }
+
+                .w-nav-button.w--open {
+                    color: #000;
+                    background-color: transparent;
+                }
+
+                .link-block-new {
+                    display: block;
+                    text-align: left;
+                    font-size: 14px;
+                    margin-top: 12px;
+                }
+
+                .link-block-new.w--current {
+                    margin-top: 12px;
+                }
+
+                .nav-underline {
+                    background-color: transparent;
+                }
+            }
+
+            @media screen and (max-width: 479px) {
+                .section-hero_title-flip-text {
+                    width: 245px !important;
+                }
+            }
+        </style>
         <link rel="canonical" href="https://www.media.net/advertisers/"/>
         <meta property="og:locale" content="en_US"/>
         <meta property="og:type" content="website"/>
         <meta property="og:url" content="https://www.media.net/advertisers/"/>
         <meta property="og:site_name" content="Media.net"/>
+        <style>
+            .section-publishers-hero_grid {
+                background-image: url("https://s31073.pcdn.co/wf-assets/images/publisher-hero-bg.png");
+                background-size: 820px;
+            }
+
+            .section-advertisers-activation_card-inner.card-1 {
+                background-image: url("https://s31073.pcdn.co/wf-assets/images/home-outcome-card-01.png");
+                background-size: cover;
+            }
+
+            .section-advertisers-activation_card-inner.card-2 {
+                background-image: url("https://s31073.pcdn.co/wf-assets/images/home-outcome-card-02.png");
+                background-size: cover;
+            }
+
+            .section-advertisers-activation_card-inner.card-3 {
+                background-image: url("https://s31073.pcdn.co/wf-assets/images/home-outcome-card-03.png");
+                background-size: cover;
+            }
+
+            .section-advertisers-activation_card-inner.card-4 {
+                background-image: url("https://s31073.pcdn.co/wf-assets/images/home-outcome-card-04.png");
+                background-size: cover;
+            }
+
+            .section-advertisers-audience_logos-container {
+                background-image: url("https://s31073.pcdn.co/wf-assets/images/advertisers-logo-bg-pattern.png");
+                background-size: cover;
+            }
+
+            .section-contact_bg {
+                background-image: url("https://s31073.pcdn.co/wf-assets/images/contact-us-bg-pattern.png");
+                background-position: 50%;
+                background-repeat: no-repeat;
+                background-size: 1728px;
+            }
+        </style>
     </head>
     <body class="body-4">
-
-
-    <div class="page-wrapper">
+        <div class="page-wrapper">
             <div data-animation="default" class="nav w-nav" data-easing2="ease-in-out" data-easing="ease-in-out" data-collapse="medium" data-wf--nav--variant="base" role="banner" data-no-scroll="1" data-duration="400">
                 <div class="nav_padding">
                     <div class="nav_container w-container">
                         <div class="nav_wrapper">
-                            <a href="/" aria-current="page" class="nav_logo w-inline-block w--current">
+                            <a href="/" class="nav_logo w-inline-block">
                                 <div class="nav_logo-embed w-embed">
                                     <svg width="121" height="41" viewBox="0 0 121 41" fill="none" xmlns="http://www.w3.org/2000/svg">
                                         <g clip-path="url(#clip0_4255_13194)">
@@ -638,29 +765,454 @@
                                 </div>
                             </a>
                             <nav role="navigation" class="nav_menu w-nav-menu">
-                                <a data-w-id="18537daa-a2cc-66f0-b5e9-2ee4fefabe94" href="/publishers.php" class="link-block-new w-inline-block">
+                                <a data-w-id="18537daa-a2cc-66f0-b5e9-2ee4fefabe94" href="/publishers" class="link-block-new w-inline-block">
                                     <div class="text-block-4">Publishers</div>
                                     <div class="nav-underline"></div>
                                 </a>
-                                <a data-w-id="1ccc763f-1f30-4815-56bb-b09fb1b97f92" href="/advertiser.php" class="link-block-new w-inline-block">
+                                <a data-w-id="1ccc763f-1f30-4815-56bb-b09fb1b97f92" href="/advertiser" aria-current="page" class="link-block-new w-inline-block w--current">
                                     <div class="text-block-3">Advertisers</div>
                                     <div class="nav-underline"></div>
                                 </a>
-                                <a data-w-id="c5b214de-23f1-281d-3da0-1856a6c7aeb7" href="/contextualads.php" class="link-block-new w-inline-block">
+                                <a data-w-id="c5b214de-23f1-281d-3da0-1856a6c7aeb7" href="/contextualads" class="link-block-new w-inline-block">
                                     <div class="text-block-5">Contextual SearchSignals</div>
                                     <div class="nav-underline"></div>
                                 </a>
-                                <a data-w-id="c1292858-77ab-f66f-fd96-812af785ebe5" href="/deals-desk.php" class="link-block-new w-inline-block">
+                                <a data-w-id="c1292858-77ab-f66f-fd96-812af785ebe5" href="/deals-desk" class="link-block-new w-inline-block">
                                     <div class="text-block-6">Deals Desk</div>
                                     <div class="nav-underline"></div>
                                 </a>
                             </nav>
                             <div class="nav_menu-button w-nav-button">
-                                <div class="w-icon-nav-menu"></div>
+                            <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="16" height="16" viewBox="0 0 50 50">
+<path d="M 0 7.5 L 0 12.5 L 50 12.5 L 50 7.5 Z M 0 22.5 L 0 27.5 L 50 27.5 L 50 22.5 Z M 0 37.5 L 0 42.5 L 50 42.5 L 50 37.5 Z"></path>
+</svg>
                             </div>
                         </div>
                     </div>
                 </div>
                 <div class="global-styles w-embed">
+                    <style>
+                        html {
+                            font-size: 1rem;
+                        }
+
+                        @media screen and (max-width: 1920px) {
+                            html {
+                                font-size: calc(0.7505197505197505rem + 0.20790020790020797vw);
+                            }
+                        }
+
+                        @media screen and (max-width: 1439px) {
+                            html {
+                                font-size: calc(0.7367466517857143rem + 0.2232142857142857vw);
+                            }
+                        }
+
+                        @media screen and (max-width: 991px) {
+                            html {
+                                font-size: calc(0.5984933035714286rem + 0.4464285714285714vw);
+                            }
+                        }
+
+                        @media screen and (max-width: 767px) {
+                            html {
+                                font-size: calc(0.6460503472222222rem + 0.3472222222222222vw);
+                            }
+                        }
+
+                        @media screen and (max-width: 479px) {
+                            html {
+                                font-size: calc(0.6247384937238494rem + 0.41841004184100417vw);
+                            }
+                        }
+                    </style>
+                    <style>
+                        /* Make text look crisper and more legible in all browsers */
+                        body {
+                            -webkit-font-smoothing: antialiased;
+                            -moz-osx-font-smoothing: grayscale;
+                            font-smoothing: antialiased;
+                            text-rendering: optimizeLegibility;
+                        }
+
+                        /* Focus state style for keyboard navigation for the focusable elements */
+                        *[tabindex]:focus-visible, input[type="file"]:focus-visible {
+                            outline: 0.125rem solid #4d65ff;
+                            outline-offset: 0.125rem;
+                        }
+
+                        /* Set color style to inherit */
+                        .inherit-color * {
+                            color: inherit;
+                        }
+
+                        /* Get rid of top margin on first element in any rich text element */
+                        .w-richtext > :not(div):first-child, .w-richtext > div:first-child > :first-child {
+                            margin-top: 0 !important;
+                        }
+
+                        /* Get rid of bottom margin on last element in any rich text element */
+                        .w-richtext>:last-child, .w-richtext ol li:last-child, .w-richtext ul li:last-child {
+                            margin-bottom: 0 !important;
+                        }
+
+                        /* Make sure containers never lose their center alignment */
+                        .container-medium,.container-small, .container-large {
+                            margin-right: auto !important;
+                            margin-left: auto !important;
+                        }
+
+                        /* 
+  Make the following elements inherit typography styles from the parent and not have hardcoded values. 
+  Important: You will not be able to style for example "All Links" in Designer with this CSS applied.
+  Uncomment this CSS to use it in the project. Leave this message for future hand-off.
+  */
+                        /*
+  a,
+  .w-input,
+  .w-select,
+  .w-tab-link,
+  .w-nav-link,
+  .w-dropdown-btn,
+  .w-dropdown-toggle,
+  .w-dropdown-link {
+  color: inherit;
+  text-decoration: inherit;
+  font-size: inherit;
+  }
+  */
+                        /* Apply "..." after 3 lines of text */
+                        .text-style-3lines {
+                            display: -webkit-box;
+                            overflow: hidden;
+                            -webkit-line-clamp: 3;
+                            -webkit-box-orient: vertical;
+                        }
+
+                        /* Apply "..." after 2 lines of text */
+                        .text-style-2lines {
+                            display: -webkit-box;
+                            overflow: hidden;
+                            -webkit-line-clamp: 2;
+                            -webkit-box-orient: vertical;
+                        }
+
+                        /* These classes are never overwritten */
+                        .hide {
+                            display: none !important;
+                        }
+
+                        @media screen and (max-width: 991px) {
+                            .hide, .hide-tablet {
+                                display: none !important;
+                            }
+                        }
+
+                        @media screen and (max-width: 767px) {
+                            .hide-mobile-landscape {
+                                display: none !important;
+                            }
+                        }
+
+                        @media screen and (max-width: 479px) {
+                            .hide-mobile {
+                                display: none !important;
+                            }
+                        }
+
+                        .margin-0 {
+                            margin: 0rem !important;
+                        }
+
+                        .padding-0 {
+                            padding: 0rem !important;
+                        }
+
+                        .spacing-clean {
+                            padding: 0rem !important;
+                            margin: 0rem !important;
+                        }
+
+                        .margin-top {
+                            margin-right: 0rem !important;
+                            margin-bottom: 0rem !important;
+                            margin-left: 0rem !important;
+                        }
+
+                        .padding-top {
+                            padding-right: 0rem !important;
+                            padding-bottom: 0rem !important;
+                            padding-left: 0rem !important;
+                        }
+
+                        .margin-right {
+                            margin-top: 0rem !important;
+                            margin-bottom: 0rem !important;
+                            margin-left: 0rem !important;
+                        }
+
+                        .padding-right {
+                            padding-top: 0rem !important;
+                            padding-bottom: 0rem !important;
+                            padding-left: 0rem !important;
+                        }
+
+                        .margin-bottom {
+                            margin-top: 0rem !important;
+                            margin-right: 0rem !important;
+                            margin-left: 0rem !important;
+                        }
+
+                        .padding-bottom {
+                            padding-top: 0rem !important;
+                            padding-right: 0rem !important;
+                            padding-left: 0rem !important;
+                        }
+
+                        .margin-left {
+                            margin-top: 0rem !important;
+                            margin-right: 0rem !important;
+                            margin-bottom: 0rem !important;
+                        }
+
+                        .padding-left {
+                            padding-top: 0rem !important;
+                            padding-right: 0rem !important;
+                            padding-bottom: 0rem !important;
+                        }
+
+                        .margin-horizontal {
+                            margin-top: 0rem !important;
+                            margin-bottom: 0rem !important;
+                        }
+
+                        .padding-horizontal {
+                            padding-top: 0rem !important;
+                            padding-bottom: 0rem !important;
+                        }
+
+                        .margin-vertical {
+                            margin-right: 0rem !important;
+                            margin-left: 0rem !important;
+                        }
+
+                        .padding-vertical {
+                            padding-right: 0rem !important;
+                            padding-left: 0rem !important;
+                        }
+                    </style>
+                </div>
+            </div>
+            <div class="global-styles w-embed">
+                <style>
+                    html {
+                        font-size: 1rem;
+                    }
+
+                    @media screen and (max-width: 1920px) {
+                        html {
+                            font-size: calc(0.7505197505197505rem + 0.20790020790020797vw);
+                        }
+                    }
+
+                    @media screen and (max-width: 1439px) {
+                        html {
+                            font-size: calc(0.7367466517857143rem + 0.2232142857142857vw);
+                        }
+                    }
+
+                    @media screen and (max-width: 991px) {
+                        html {
+                            font-size: calc(0.5984933035714286rem + 0.4464285714285714vw);
+                        }
+                    }
+
+                    @media screen and (max-width: 767px) {
+                        html {
+                            font-size: calc(0.6460503472222222rem + 0.3472222222222222vw);
+                        }
+                    }
+
+                    @media screen and (max-width: 479px) {
+                        html {
+                            font-size: calc(0.6247384937238494rem + 0.41841004184100417vw);
+                        }
+                    }
+                </style>
+                <style>
+                    /* Make text look crisper and more legible in all browsers */
+                    body {
+                        -webkit-font-smoothing: antialiased;
+                        -moz-osx-font-smoothing: grayscale;
+                        font-smoothing: antialiased;
+                        text-rendering: optimizeLegibility;
+                    }
+
+                    /* Focus state style for keyboard navigation for the focusable elements */
+                    *[tabindex]:focus-visible, input[type="file"]:focus-visible {
+                        outline: 0.125rem solid #4d65ff;
+                        outline-offset: 0.125rem;
+                    }
+
+                    /* Set color style to inherit */
+                    .inherit-color * {
+                        color: inherit;
+                    }
+
+                    /* Get rid of top margin on first element in any rich text element */
+                    .w-richtext > :not(div):first-child, .w-richtext > div:first-child > :first-child {
+                        margin-top: 0 !important;
+                    }
+
+                    /* Get rid of bottom margin on last element in any rich text element */
+                    .w-richtext>:last-child, .w-richtext ol li:last-child, .w-richtext ul li:last-child {
+                        margin-bottom: 0 !important;
+                    }
+
+                    /* Make sure containers never lose their center alignment */
+                    .container-medium,.container-small, .container-large {
+                        margin-right: auto !important;
+                        margin-left: auto !important;
+                    }
+
+                    /* 
+  Make the following elements inherit typography styles from the parent and not have hardcoded values. 
+  Important: You will not be able to style for example "All Links" in Designer with this CSS applied.
+  Uncomment this CSS to use it in the project. Leave this message for future hand-off.
+  */
+                    /*
+  a,
+  .w-input,
+  .w-select,
+  .w-tab-link,
+  .w-nav-link,
+  .w-dropdown-btn,
+  .w-dropdown-toggle,
+  .w-dropdown-link {
+  color: inherit;
+  text-decoration: inherit;
+  font-size: inherit;
+  }
+  */
+                    /* Apply "..." after 3 lines of text */
+                    .text-style-3lines {
+                        display: -webkit-box;
+                        overflow: hidden;
+                        -webkit-line-clamp: 3;
+                        -webkit-box-orient: vertical;
+                    }
+
+                    /* Apply "..." after 2 lines of text */
+                    .text-style-2lines {
+                        display: -webkit-box;
+                        overflow: hidden;
+                        -webkit-line-clamp: 2;
+                        -webkit-box-orient: vertical;
+                    }
+
+                    /* These classes are never overwritten */
+                    .hide {
+                        display: none !important;
+                    }
+
+                    @media screen and (max-width: 991px) {
+                        .hide, .hide-tablet {
+                            display: none !important;
+                        }
+                    }
+
+                    @media screen and (max-width: 767px) {
+                        .hide-mobile-landscape {
+                            display: none !important;
+                        }
+                    }
+
+                    @media screen and (max-width: 479px) {
+                        .hide-mobile {
+                            display: none !important;
+                        }
+                    }
+
+                    .margin-0 {
+                        margin: 0rem !important;
+                    }
+
+                    .padding-0 {
+                        padding: 0rem !important;
+                    }
+
+                    .spacing-clean {
+                        padding: 0rem !important;
+                        margin: 0rem !important;
+                    }
+
+                    .margin-top {
+                        margin-right: 0rem !important;
+                        margin-bottom: 0rem !important;
+                        margin-left: 0rem !important;
+                    }
+
+                    .padding-top {
+                        padding-right: 0rem !important;
+                        padding-bottom: 0rem !important;
+                        padding-left: 0rem !important;
+                    }
+
+                    .margin-right {
+                        margin-top: 0rem !important;
+                        margin-bottom: 0rem !important;
+                        margin-left: 0rem !important;
+                    }
+
+                    .padding-right {
+                        padding-top: 0rem !important;
+                        padding-bottom: 0rem !important;
+                        padding-left: 0rem !important;
+                    }
+
+                    .margin-bottom {
+                        margin-top: 0rem !important;
+                        margin-right: 0rem !important;
+                        margin-left: 0rem !important;
+                    }
+
+                    .padding-bottom {
+                        padding-top: 0rem !important;
+                        padding-right: 0rem !important;
+                        padding-left: 0rem !important;
+                    }
+
+                    .margin-left {
+                        margin-top: 0rem !important;
+                        margin-right: 0rem !important;
+                        margin-bottom: 0rem !important;
+                    }
+
+                    .padding-left {
+                        padding-top: 0rem !important;
+                        padding-right: 0rem !important;
+                        padding-bottom: 0rem !important;
+                    }
+
+                    .margin-horizontal {
+                        margin-top: 0rem !important;
+                        margin-bottom: 0rem !important;
+                    }
+
+                    .padding-horizontal {
+                        padding-top: 0rem !important;
+                        padding-bottom: 0rem !important;
+                    }
+
+                    .margin-vertical {
+                        margin-right: 0rem !important;
+                        margin-left: 0rem !important;
+                    }
+
+                    .padding-vertical {
+                        padding-right: 0rem !important;
+                        padding-left: 0rem !important;
+                    }
+                </style>
             </div>
             <main class="main-wrapper">
